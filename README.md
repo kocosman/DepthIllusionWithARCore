@@ -3,7 +3,7 @@
 
 <p float="left">
   <img src="https://github.com/kocosman/DepthIllusionWithARCore/blob/master/GIFS/Crystal_hand.gif" height="400" />
-	<p>     </p>
+	<span>     </span>
   <img src="https://github.com/kocosman/DepthIllusionWithARCore/blob/master/GIFS/Mars_Face.gif" height="400" /> 
 </p>
 
