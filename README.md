@@ -23,8 +23,7 @@ After changing the publishing settings, you need to update the custom main and l
 Here's what you need to do: https://developers.google.com/ar/develop/unity/android-11-build
 
 There are multiple versions of each component that are not all necessarily compatible, here's all the packages and their versions from Package manager. 
-## Add Screenshot of Package manager In project
-
+![alt text](https://github.com/kocosman/DepthIllusionWithARCore/blob/master/DepthIllusionARCore_PackageManager.png)
 
 ##The project consists of 2 main elements
 - Off axis projection
