@@ -1,0 +1,191 @@
+{
+    "m_SelectedDeviceId": "93TX1Y8U0",
+    "m_SelectedPackage": {
+        "deviceId": "93TX1Y8U0",
+        "name": "com.DefaultCompany.DepthIllusionWithARCore",
+        "processId": 22585,
+        "exited": true
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "93TX1Y8U0",
+            "name": "com.facebook.katana",
+            "processId": 27745,
+            "exited": false
+        },
+        {
+            "deviceId": "93TX1Y8U0",
+            "name": "com.DefaultCompany.DepthIllusionWithARCore",
+            "processId": 8677,
+            "exited": true
+        },
+        {
+            "deviceId": "93TX1Y8U0",
+            "name": "com.reddit.frontpage",
+            "processId": 28749,
+            "exited": false
+        },
+        {
+            "deviceId": "93TX1Y8U0",
+            "name": "com.google.ar.core.instantpreview",
+            "processId": 24768,
+            "exited": true
+        },
+        {
+            "deviceId": "93TX1Y8U0",
+            "name": "com.google.ar.core.instantpreview",
+            "processId": 25160,
+            "exited": false
+        },
+        {
+            "deviceId": "93TX1Y8U0",
+            "name": "com.DefaultCompany.DepthIllusionWithARCore",
+            "processId": 25604,
+            "exited": false
+        },
+        {
+            "deviceId": "93TX1Y8U0",
+            "name": "com.DefaultCompany.DepthIllusionWithARCore",
+            "processId": 29876,
+            "exited": true
+        },
+        {
+            "deviceId": "93TX1Y8U0",
+            "name": "com.DefaultCompany.DepthIllusionWithARCore",
+            "processId": 5203,
+            "exited": false
+        },
+        {
+            "deviceId": "93TX1Y8U0",
+            "name": "com.DefaultCompany.DepthIllusionWithARCore",
+            "processId": 11799,
+            "exited": false
+        },
+        {
+            "deviceId": "93TX1Y8U0",
+            "name": "com.DefaultCompany.DepthIllusionWithARCore",
+            "processId": 19333,
+            "exited": false
+        },
+        {
+            "deviceId": "93TX1Y8U0",
+            "name": "com.DefaultCompany.DepthIllusionWithARCore",
+            "processId": 23230,
+            "exited": false
+        },
+        {
+            "deviceId": "93TX1Y8U0",
+            "name": "com.DefaultCompany.DepthIllusionWithARCore",
+            "processId": 29029,
+            "exited": false
+        },
+        {
+            "deviceId": "93TX1Y8U0",
+            "name": "com.DefaultCompany.DepthIllusionWithARCore",
+            "processId": 5473,
+            "exited": false
+        },
+        {
+            "deviceId": "93TX1Y8U0",
+            "name": "com.DefaultCompany.DepthIllusionWithARCore",
+            "processId": 7932,
+            "exited": false
+        },
+        {
+            "deviceId": "93TX1Y8U0",
+            "name": "com.DefaultCompany.DepthIllusionWithARCore",
+            "processId": 12792,
+            "exited": false
+        },
+        {
+            "deviceId": "93TX1Y8U0",
+            "name": "com.DefaultCompany.DepthIllusionWithARCore",
+            "processId": 16183,
+            "exited": false
+        },
+        {
+            "deviceId": "93TX1Y8U0",
+            "name": "com.DefaultCompany.DepthIllusionWithARCore",
+            "processId": 28629,
+            "exited": false
+        },
+        {
+            "deviceId": "93TX1Y8U0",
+            "name": "com.DefaultCompany.DepthIllusionWithARCore",
+            "processId": 8605,
+            "exited": false
+        },
+        {
+            "deviceId": "93TX1Y8U0",
+            "name": "com.DefaultCompany.DepthIllusionWithARCore",
+            "processId": 12668,
+            "exited": false
+        },
+        {
+            "deviceId": "93TX1Y8U0",
+            "name": "com.DefaultCompany.DepthIllusionWithARCore",
+            "processId": 16962,
+            "exited": false
+        },
+        {
+            "deviceId": "93TX1Y8U0",
+            "name": "com.DefaultCompany.DepthIllusionWithARCore",
+            "processId": 22585,
+            "exited": true
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 1,
+        "Behavior": 1
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
