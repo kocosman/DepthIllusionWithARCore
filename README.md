@@ -2,8 +2,9 @@
 ## Combining Off-axis projection with face tracking via ARCore
 
 <p float="left">
-  <img src="https://github.com/kocosman/DepthIllusionWithARCore/blob/master/GIFS/Crystal_hand.gif" width="100" />
-  <img src="https://github.com/kocosman/DepthIllusionWithARCore/blob/master/GIFS/Mars_Face.gif" width="100" /> 
+  <img src="https://github.com/kocosman/DepthIllusionWithARCore/blob/master/GIFS/Crystal_hand.gif" height="400" />
+	<p>     </p>
+  <img src="https://github.com/kocosman/DepthIllusionWithARCore/blob/master/GIFS/Mars_Face.gif" height="400" /> 
 </p>
 
 
