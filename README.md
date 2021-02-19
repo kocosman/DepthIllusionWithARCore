@@ -1,6 +1,12 @@
 # DepthIllusionWithARCore
 ## Combining Off-axis projection with face tracking via ARCore
 
+<p float="left">
+  <img src="https://github.com/kocosman/DepthIllusionWithARCore/blob/master/GIFS/Crystal_hand.gif" width="100" />
+  <img src="https://github.com/kocosman/DepthIllusionWithARCore/blob/master/GIFS/Mars_Face.gif" width="100" /> 
+</p>
+
+
 This is pretty much the Android version of Peder Norrby's TheParallaxView project:
 https://github.com/algomystic/TheParallaxView
 
