@@ -1,5 +1,5 @@
 # DepthIllusionWithARCore
-##Combining Off-axis projection with face tracking via ARCore
+## Combining Off-axis projection with face tracking via ARCore
 
 This is pretty much the Android version of Peder Norrby's TheParallaxView project:
 https://github.com/algomystic/TheParallaxView
@@ -23,7 +23,7 @@ After changing the publishing settings, you need to update the custom main and l
 Here's what you need to do: https://developers.google.com/ar/develop/unity/android-11-build
 
 There are multiple versions of each component that are not all necessarily compatible, here's all the packages and their versions from Package manager. 
-##Add Screenshot of Package manager In project
+## Add Screenshot of Package manager In project
 
 
 ##The project consists of 2 main elements
