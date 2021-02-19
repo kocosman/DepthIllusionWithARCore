@@ -31,6 +31,7 @@ There are multiple versions of each component that are not all necessarily compa
 - Head tracking
 
 Michel de Brisis has a great write up and a starter project for Off-axis Projection in Unity: https://medium.com/@michel.brisis/off-axis-projection-in-unity-1572d826541e
+
 The link to the paper he refers to is broken, you can find it here:
 http://160592857366.free.fr/joe/ebooks/ShareData/Generalized%20Perspective%20Projection.pdf
 
