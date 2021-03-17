@@ -7,7 +7,7 @@
   <img src="https://github.com/kocosman/DepthIllusionWithARCore/blob/master/GIFS/Mars_Face.gif" height="400" /> 
 </p>
 
-### The app is now available in Google Play Store:  https://play.google.com/store/apps/details?id=com.kocosman.DepthIllusionDemoScenes
+### The app is now available in Google Play Store:<br/>https://play.google.com/store/apps/details?id=com.kocosman.DepthIllusionDemoScenes
 
 This is pretty much the Android version of Peder Norrby's TheParallaxView project:
 https://github.com/algomystic/TheParallaxView
